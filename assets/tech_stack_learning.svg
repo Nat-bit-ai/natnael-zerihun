@@ -161,9 +161,9 @@
 
   <circle cx="483" cy="266" r="4" fill="#fbbf24" />
   <text x="495" y="270" class="item-label">Python</text>
-  <text x="605" y="270" class="percent-label" fill="#fbbf24">5%</text>
+  <text x="605" y="270" class="percent-label" fill="#fbbf24">6%</text>
   <rect x="645" y="261" width="195" height="10" class="bar-bg" />
-  <rect x="645" y="261" width="10" height="10" class="bar-fill" fill="url(#bar-dsa)" />
+  <rect x="645" y="261" width="12" height="10" class="bar-fill" fill="url(#bar-dsa)" />
 
   <circle cx="483" cy="298" r="4" fill="#fb7185" />
   <text x="495" y="302" class="item-label">JavaScript</text>
